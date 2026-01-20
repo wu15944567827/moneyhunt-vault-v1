@@ -1,0 +1,203 @@
+{
+  "id": "0014",
+  "title": "微信小店",
+  "summary": "在微信生态内开店卖货，借助视频号、公众号、小程序的流量闭环，做私域电商或内容带货。",
+  "highlights": "生态闭环｜私域沉淀｜信任转化",
+  "platform": [
+    "微信公众号"
+  ],
+  "profitModel": "电商带货",
+  "caseRevenue": "案例：视频号直播单场GMV过万",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2025-12-22 09:00",
+  "detailContent": {
+    "overview": "抖音电商很卷，但你有没有想过：**微信生态里的电商才刚刚开始**？\n\n微信小店不是独立的平台，而是整个微信生态的交易基础设施。视频号、公众号、小程序、服务号图文、朋友圈，所有流量都可以导到微信小店成交。更重要的是，系统正在强化\"商品内容化\"能力——商品评论能被推荐到公域，小绿书图文带货、评论区挂链接，这些新玩法都在打通。\n\n**更关键的是：微信用户的信任成本更低**。他们不是在刷短视频时被冲动消费，而是在熟人社交环境里做决策。养生食品、图书课程、高客单商品，在微信里的转化率远高于其他平台。\n\n公众号服务号发两篇图文，第一篇就爆了3.8万阅读卖出13单；视频号AI带货视频6条出爆款，单条10万+点赞卖出500多单；佣金普遍50%-75%，平台还在给流量扶持。这不是流量生意，是信任生意。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "6条视频卖500单书",
+        "profitDetail": "视频号发AI讲解视频卖书，6条视频500多单，月赚3千到6千",
+        "type": "中标",
+        "publishTime": "2025-11-08 08:46"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "画娃带货卖自己书",
+        "profitDetail": "公众号发育儿漫画吸粉卖书，34.9元一本，月赚3千到1万",
+        "type": "中标",
+        "publishTime": "2025-10-15 16:34"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E6%A1%88%E4%BE%8B-3.jpg",
+        "order": 3,
+        "caseTitle": "公众号图文卖货",
+        "profitDetail": "微信服务号挂商品链接，AI写文章卖货，月赚几百到两千",
+        "type": "中标",
+        "publishTime": "2025-09-26 21:23"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E6%A1%88%E4%BE%8B-4.jpg",
+        "order": 4,
+        "caseTitle": "评论晒图上公域",
+        "profitDetail": "微信小店卖货引流，让买家评论推荐，月赚3千到1万",
+        "type": "中标",
+        "publishTime": "2025-08-18 18:44"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE14_%E5%B9%B3%E5%8F%B0-1.jpg",
+        "order": 5,
+        "caseTitle": "教Excel卖课年入百万",
+        "profitDetail": "公众号发Excel教程引流，卖298元课程，月赚3万到10万",
+        "type": "线索",
+        "publishTime": "2026-01-06 11:00"
+      }
+    ],
+    "whyWorthDoing": [
+      "**生态闭环**：视频号、公众号、小程序、服务号图文、朋友圈、搜一搜，所有流量入口都在打通，用户不用跳出微信就能完成种草到成交",
+      "**私域沉淀**：每个成交用户都能沉淀到私域，还能通过商品评论被推荐到公域，形成\"公域获客-私域复购\"的正循环",
+      "**高佣金红利期**：平台正在大力扶持，很多商品佣金可达50-75%，叠加流量主收益，一鱼两吃"
+    ],
+    "howToProfit": [
+      "**视频号带货**：短视频挂车+直播带货，AI批量生产内容起号快，6条视频出爆款卖500单",
+      "**小绿书图文带货**：公众号发图文挂商品链接，新号首篇爆3.8万阅读出13单，佣金50-75%",
+      "**推客社群分销**：朋友圈/社群种草推荐商品，赚取带货佣金，无需自己开店"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0-300元**，个人号免保证金，服务号基础运营成本",
+      "expectedRevenue": "**单篇爆款带货佣金过千**，佣金比例50-75%，日更月入数千到过万",
+      "paybackPeriod": "**1-4周**，爆款不确定性大，需日更坚持满1个月"
+    },
+    "steps": [
+      "**开通微信小店**：完成资质认证，上架商品，视频号缴纳100元保证金开通橱窗功能",
+      "**选择流量入口**：服务号图文、视频号、朋友圈、小程序，多入口组合测试",
+      "**内容种草带货**：发布图片+文案形式的小绿书，图文中插入商品链接，评论区也可挂商品",
+      "**私域+推客运营**：把成交用户沉淀到企业微信做复购，同时开通推客带货赚取佣金"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "白杨",
+          "authorLink": "https://scys.com/personal/24499?number=50656",
+          "publishTime": "2025-11-08 08:46",
+          "caseTitle": "6条视频卖500单书",
+          "profitDetail": "视频号发AI讲解视频卖书，6条视频500多单，月赚3千到6千",
+          "link": "https://scys.com/articleDetail/xq_topic/82811541418154442",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "吕贺",
+          "authorLink": "https://scys.com/personal/826563?number=127710",
+          "publishTime": "2025-10-15 16:34",
+          "caseTitle": "画娃带货卖自己书",
+          "profitDetail": "公众号发育儿漫画吸粉卖书，34.9元一本，月赚3千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588258284411482",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "华仔",
+          "authorLink": "https://scys.com/personal/647523?number=58452",
+          "publishTime": "2025-09-26 21:23",
+          "caseTitle": "公众号图文卖货",
+          "profitDetail": "微信服务号挂商品链接，AI写文章卖货，月赚几百到两千",
+          "link": "https://scys.com/articleDetail/xq_topic/2854545512814241",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "帛军师",
+          "authorLink": "https://scys.com/personal/152422?number=29321",
+          "publishTime": "2025-08-18 18:44",
+          "caseTitle": "评论晒图上公域",
+          "profitDetail": "微信小店卖货引流，让买家评论推荐，月赚3千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/8852118414558852",
+          "type": "中标"
+        }
+      ],
+      "平台": [
+        {
+          "order": 1,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 11:00",
+          "caseTitle": "教Excel卖课年入百万",
+          "profitDetail": "公众号发Excel教程引流，卖298元课程，月赚3万到10万",
+          "link": "",
+          "type": "线索"
+        }
+      ]
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2024-12",
+          "title": "小绿书带货",
+          "link": "https://scys.com/view/docx/CKkMdpGAwoFnVixGcTlcVv7Cnzg",
+          "type": "航海"
+        },
+        {
+          "order": 3,
+          "author": "文锴",
+          "authorLink": "https://scys.com/personal/723756?number=65063",
+          "publishTime": "2025-07-01 23:54",
+          "title": "一个人，一套自动化流程，如何玩转100个中老年书法视频号矩阵？",
+          "link": "https://scys.com/articleDetail/xq_topic/1524181488588122",
+          "type": "精华"
+        },
+        {
+          "order": 4,
+          "author": "老胡",
+          "authorLink": "https://scys.com/personal/205291?number=2487",
+          "publishTime": "2025-03-04 18:05",
+          "title": "微信小店的推客现在能入局吗？",
+          "link": "https://scys.com/articleDetail/xq_topic/8858144181118152",
+          "type": "精华"
+        },
+        {
+          "order": 5,
+          "author": "孟哥",
+          "authorLink": "https://scys.com/personal/207573?number=36871",
+          "publishTime": "2025-01-09 17:46",
+          "title": "1月8号微信小店带货达人闭门会一手信息，已脱敏分享",
+          "link": "https://scys.com/articleDetail/xq_topic/8858415815821522",
+          "type": "精华"
+        },
+        {
+          "order": 6,
+          "author": "Fu Lin",
+          "authorLink": "https://scys.com/personal/3336328?number=133459",
+          "publishTime": "2025-12-30 01:08",
+          "title": "复盘｜客单价 2000-6000 元产品，0 投流、0 爆款，靠微信小店+矩阵号做到月 GMV 10W+",
+          "link": "https://scys.com/articleDetail/xq_topic/82811815521255522",
+          "type": "帖子"
+        }
+      ],
+      "政策": [
+        {
+          "order": 1,
+          "author": "Mark",
+          "authorLink": "https://scys.com/personal/35791?number=15286",
+          "publishTime": "2025-08-11 12:11",
+          "title": "微信小店推出「推客带货」，社群与朋友圈轻松赚佣金",
+          "link": "https://scys.com/articleDetail/xq_topic/2852148812488541",
+          "type": "中标"
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "clickCount": 864,
+    "readCount": 720,
+    "favoriteCount": 10,
+    "likeCount": 36,
+    "commentCount": 3,
+    "shareCount": 1
+  }
+}

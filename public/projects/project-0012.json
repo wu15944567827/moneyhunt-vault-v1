@@ -1,0 +1,202 @@
+{
+  "id": "0012",
+  "title": "B站充电订阅",
+  "summary": "在B站做陪伴型内容，通过充电订阅获得按月续费的稳定收入。不依赖爆款、不拼粉丝规模，靠深度关系变现。",
+  "highlights": "按月续费｜陪伴关系｜深度转化",
+  "platform": [
+    "哔哩哔哩"
+  ],
+  "profitModel": "订阅制",
+  "caseRevenue": "案例：2万粉1.1万人充电，月入30万",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2025-12-16 09:00",
+  "detailContent": {
+    "overview": "你可能觉得B站变现很难，要么接广告要么带货，粉丝不够多根本赚不到钱。\n\n但你有没有注意到B站的「充电」功能？**这不是路过给你2块钱，而是6/18/30元每月持续续费**。很多账号已经形成稳定现金流——2万粉的影视reaction账号1.1万人充电，榜单第一的老粉连续充了1000多天；还有做小说改编漫画的账号，不到1万粉就有3500人充电。\n\n为什么用户愿意按月付费？因为他们买的不是内容本身，而是**陪伴关系**。老外看动漫reaction、小说生成漫画、影视解说完整版，这些内容的共同点是：连续性强、情绪黏性高、有追剧感。\n\n**你卖的不是知识、不是干货，而是「有人陪你一起看、一起感受」的体验**。1-3万粉的账号就能有三五千到上万充电用户，不拼爆款，靠深度关系变现。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "小说变漫画收会员费",
+        "profitDetail": "发B站漫画设会员，1.8万人充值，月赚10万到20万",
+        "type": "中标",
+        "publishTime": "2025-10-11 22:29"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "搬油管视频收充电",
+        "profitDetail": "油管视频配字幕发B站，充电赚钱，月入5千到2万",
+        "type": "中标",
+        "publishTime": "2025-09-01 19:20"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E5%B9%B3%E5%8F%B0-1.jpg",
+        "order": 3,
+        "caseTitle": "老外看电影收充电费",
+        "profitDetail": "搬运B站电影反应视频，充电专区卖完整版，1.1万人付费，月赚3千到1万",
+        "type": "线索",
+        "publishTime": "2026-01-06 12:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E5%B9%B3%E5%8F%B0-2.jpg",
+        "order": 4,
+        "caseTitle": "搬老外看番赚打赏",
+        "profitDetail": "B站搬运老外看动漫视频，粉丝充电打赏，累计赚2万到10万",
+        "type": "线索",
+        "publishTime": "2026-01-06 12:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E5%B9%B3%E5%8F%B0-3.jpg",
+        "order": 5,
+        "caseTitle": "漫画解说卖小说",
+        "profitDetail": "B站漫画解说视频，观众充电看小说原文，3500人充电月赚2到3万。",
+        "type": "线索",
+        "publishTime": "2026-01-06 12:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E5%B9%B3%E5%8F%B0-4.jpg",
+        "order": 6,
+        "caseTitle": "读小说赚8千充电",
+        "profitDetail": "B站发性转小说视频靠粉丝充电，月入3千到1万",
+        "type": "线索",
+        "publishTime": "2026-01-06 12:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE12_%E5%B9%B3%E5%8F%B0-5.jpg",
+        "order": 7,
+        "caseTitle": "男声哄睡年入5万",
+        "profitDetail": "B站发女性向音声视频，粉丝充电打赏支持，3千多人充电累计赚3万到5万",
+        "type": "线索",
+        "publishTime": "2026-01-06 12:00"
+      }
+    ],
+    "whyWorthDoing": [
+      "**按月续费形成稳定现金流**：6/18/30元每月持续续费，2万粉账号能有1.1万人充电，榜单老粉连续充了1000多天",
+      "**陪伴关系难以替代**：用户买的是\"有人陪你一起看、一起感受\"的体验，不是一次性内容消费，粘性极强",
+      "**深度转化不拼粉丝量**：1-4万粉的账号就能有3000到上万充电用户，付费转化率极高，不需要百万粉丝基础"
+    ],
+    "howToProfit": [
+      "**按月续费收入**：6/18/30元档位持续订阅，2万粉账号可达1.1万人充电，铁粉连续充电超1000天",
+      "**会员专属内容**：完整版视频、提前解锁、充电可见，用户付费的是陪伴体验而非单纯内容",
+      "**深度关系变现**：不拼爆款拼粘性，2-4万粉即可转化数千付费用户，形成稳定现金流"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0-300元**，主要是视频剪辑和字幕制作成本",
+      "expectedRevenue": "**2万粉1.1万人充电，月入18-40万**（平台扣点前，按6-30元/月档位计算）",
+      "paybackPeriod": "**1-3个月**，深度粉丝持续续费形成稳定现金流"
+    },
+    "steps": [
+      "**选择高黏性内容类型**：动漫/影视reaction、小说改编漫画、长篇连载等连续性强的内容更适合培养付费习惯",
+      "**采用\"免费+完整版充电\"模式**：公开发布剪辑版吸引流量，完整版设为充电专属，参考头部账号的分发策略",
+      "**建立陪伴式关系**：用户买的不是内容本身，而是\"有人陪你一起看、一起感受\"的体验，维护评论区互动",
+      "**持续稳定更新**：保持系列内容的连载节奏，培养铁杆粉丝（头部账号有粉丝连续充电1000+天）"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "秦锋",
+          "authorLink": "https://scys.com/personal/214606?number=41346",
+          "publishTime": "2025-10-11 22:29",
+          "caseTitle": "小说变漫画收会员费",
+          "profitDetail": "发B站漫画设会员，1.8万人充值，月赚10万到20万",
+          "link": "https://scys.com/articleDetail/xq_topic/4842422855215218",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "枫晓陌 AI十倍提质提效",
+          "authorLink": "https://scys.com/personal/582273?number=53509",
+          "publishTime": "2025-09-01 19:20",
+          "caseTitle": "搬油管视频收充电",
+          "profitDetail": "油管视频配字幕发B站，充电赚钱，月入5千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/2854558545585511",
+          "type": "中标"
+        }
+      ],
+      "平台": [
+        {
+          "order": 1,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "老外看电影收充电费",
+          "profitDetail": "搬运B站电影反应视频，充电专区卖完整版，1.1万人付费，月赚3千到1万",
+          "link": "https://space.bilibili.com/15644578",
+          "type": "线索"
+        },
+        {
+          "order": 2,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "搬老外看番赚打赏",
+          "profitDetail": "B站搬运老外看动漫视频，粉丝充电打赏，累计赚2万到10万",
+          "link": "https://space.bilibili.com/299337860",
+          "type": "线索"
+        },
+        {
+          "order": 3,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "漫画解说卖小说",
+          "profitDetail": "B站漫画解说视频，观众充电看小说原文，3500人充电月赚2到3万。",
+          "link": "https://space.bilibili.com/3546834154818001",
+          "type": "线索"
+        },
+        {
+          "order": 4,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "读小说赚8千充电",
+          "profitDetail": "B站发性转小说视频靠粉丝充电，月入3千到1万",
+          "link": "https://space.bilibili.com/163478259",
+          "type": "线索"
+        },
+        {
+          "order": 5,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "男声哄睡年入5万",
+          "profitDetail": "B站发女性向音声视频，粉丝充电打赏支持，3千多人充电累计赚3万到5万",
+          "link": "https://space.bilibili.com/678783639",
+          "type": "线索"
+        }
+      ]
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "杨爽@生财有术",
+          "authorLink": "https://scys.com/personal/34563?number=34758",
+          "publishTime": "2025-12-19 22:00",
+          "title": "SCBI 第十二期：想靠做内容赚钱，这 3 个项目可以重点看",
+          "link": "https://scys.com/articleDetail/xq_topic/45811851484255218",
+          "type": "精华"
+        },
+        {
+          "order": 2,
+          "author": "A 旺仔¹",
+          "authorLink": "https://scys.com/personal/3454404?number=133558",
+          "publishTime": "2025-07-08 19:45",
+          "title": "B站引流攻略及千粉涨粉方法分享",
+          "link": "https://scys.com/articleDetail/xq_topic/5125822141452824",
+          "type": "精华"
+        }
+      ],
+      "政策": []
+    }
+  },
+  "statistics": {
+    "clickCount": 1176,
+    "readCount": 980,
+    "favoriteCount": 14,
+    "likeCount": 48,
+    "commentCount": 4,
+    "shareCount": 2
+  }
+}

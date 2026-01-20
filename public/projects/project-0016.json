@@ -1,0 +1,202 @@
+{
+  "id": "0016",
+  "title": "AI工作流",
+  "summary": "帮中小商家代做AI智能体/工作流/RPA自动化，需求简单但客户不会配，80%的需求10分钟能判断、1小时能交付。",
+  "highlights": "需求已成熟｜交付简单｜高客单低难度",
+  "platform": [
+    "小红书",
+    "淘宝"
+  ],
+  "profitModel": "定制服务",
+  "caseRevenue": "案例：一单500+，勤快一天2-3单",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2026-01-02 09:00",
+  "detailContent": {
+    "overview": "你可能觉得AI工作流是技术活，需要会写代码、懂算法。但实际情况是：**80%的需求10分钟能判断能不能做，1小时内就能交付雏形**。\n\n企业和个人已经在真实付费了，不是尝鲜阶段。客户不再问你用什么模型，而是问「能不能帮我把这个流程跑通」。很多商家知道AI能干活，但不会配、没时间学、不想踩坑。\n\n**这就是供需错配**：会一点工作流/智能体的人远少于有需求的商家。对他们来说很复杂的事情，对你来说可能就是10多分钟能搞定。他们会有一种「不明觉厉」的感觉。\n\n小需求100-500元，大需求几千到几十万。勤快一天2-3单，一单500+。飞书多维表格采集204天变现9万+，Liblib AI工作流模板被调用就分钱。这是AI时代的「外包定制」，但需求被极大简化了。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "帮小白搭智能体",
+        "profitDetail": "小红书接单帮人搭智能体，简单几十块复杂500起，月入5千到2万",
+        "type": "中标",
+        "publishTime": "2025-12-18 16:10"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "做模型躺着分钱",
+        "profitDetail": "上传AI模板到LiblibAI，别人用一次你分一次钱，月赚几百到几万",
+        "type": "中标",
+        "publishTime": "2025-12-12 10:08"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-3.jpg",
+        "order": 3,
+        "caseTitle": "美女教你抄爆款",
+        "profitDetail": "抖音发视频拉粉丝群，卖课程和服务，月赚3千到2万",
+        "type": "中标",
+        "publishTime": "2025-11-13 21:30"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-4.jpg",
+        "order": 4,
+        "caseTitle": "飞书表格卖9万",
+        "profitDetail": "小红书卖飞书模板59块一份，7个月卖1500单赚9万",
+        "type": "中标",
+        "publishTime": "2025-12-19 17:16"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE16_%E6%A1%88%E4%BE%8B-5.jpg",
+        "order": 5,
+        "caseTitle": "发票变表格自动化",
+        "profitDetail": "在Reddit发帖卖AI脚本，帮公司自动提取发票，一单赚几百到几千美刀",
+        "type": "中标",
+        "publishTime": "2026-01-06 12:00"
+      }
+    ],
+    "whyWorthDoing": [
+      "**需求端已成熟**：客户不再问你用什么模型，而是问「能不能帮我把这个流程跑通」，愿意为结果付费",
+      "**供给端稀缺**：会一点工作流/智能体的人远少于有需求的商家，80%的小白用户是核心变现对象",
+      "**交付简单**：他们觉得复杂的事情，对我们来说可能就是10多分钟能搞定，高客单低难度"
+    ],
+    "howToProfit": [
+      "**定制交付**：单个流程3k-2w，按需求复杂度定价，找现成的智能体JSON导入修改即可",
+      "**模板复用**：卖同一套流程给多客户，边际成本趋近于零，如Liblib AI工作流模板被调用就分钱",
+      "**订阅运维**：一套跑通的工作流可以反复售卖和迭代，二次优化持续收费"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0元**，只需要时间和技能",
+      "expectedRevenue": "**小需求100-500元，大需求几千到几十万**，勤快一天2-3单一单500+；案例：飞书多维表格采集204天变现9万+",
+      "paybackPeriod": "**即时**，客户确认收货2天后佣金到账"
+    },
+    "steps": [
+      "**小红书获客**：发布工作流案例内容，或去淘宝等平台接单做「卧底」了解一手需求",
+      "**加微信拉群**：用企业微信管理，客户在群里提需求，直接对接甲方",
+      "**确认接单**：10分钟判断能不能做，敢于收费，多站在小白用户角度定价",
+      "**交付回款**：找现成模板导入修改，1-2小时交付，2天后回款"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "小Q",
+          "authorLink": "https://scys.com/personal/644553?number=58667",
+          "publishTime": "2025-12-18 16:10",
+          "caseTitle": "帮小白搭智能体",
+          "profitDetail": "小红书接单帮人搭智能体，简单几十块复杂500起，月入5千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588541484511152",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "林不林",
+          "authorLink": "https://scys.com/personal/1163312?number=175751",
+          "publishTime": "2025-12-12 10:08",
+          "caseTitle": "做模型躺着分钱",
+          "profitDetail": "上传AI模板到LiblibAI，别人用一次你分一次钱，月赚几百到几万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588545415128152",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "浮生若梦",
+          "authorLink": "https://scys.com/personal/469334?number=46527",
+          "publishTime": "2025-11-13 21:30",
+          "caseTitle": "美女教你抄爆款",
+          "profitDetail": "抖音发视频拉粉丝群，卖课程和服务，月赚3千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588285445251282",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "亿點點",
+          "authorLink": "https://scys.com/personal/2799275?number=127976",
+          "publishTime": "2025-12-19 17:16",
+          "caseTitle": "飞书表格卖9万",
+          "profitDetail": "小红书卖飞书模板59块一份，7个月卖1500单赚9万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588548225184252",
+          "type": "中标"
+        },
+        {
+          "order": 5,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 12:00",
+          "caseTitle": "发票变表格自动化",
+          "profitDetail": "在Reddit发帖卖AI脚本，帮公司自动提取发票，一单赚几百到几千美刀",
+          "link": "https://www.reddit.com/r/automation/comments/1oj3sv1/accidentally_killed_90_of_a_finance_teams_manual/",
+          "type": "中标"
+        }
+      ],
+      "平台": []
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-12",
+          "title": "AI 视频自动化（n8n 工作流）",
+          "link": "https://scys.com/activity/landing/8961?tabIndex=0",
+          "type": "航海"
+        },
+        {
+          "order": 2,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-09",
+          "title": "n8n 自动化工作流",
+          "link": "https://scys.com/activity/landing/7720?tabIndex=0",
+          "type": "航海"
+        },
+        {
+          "order": 3,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-09",
+          "title": "Coze + 多维表格工作流",
+          "link": "https://scys.com/activity/landing/7721?tabIndex=0",
+          "type": "航海"
+        },
+        {
+          "order": 4,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-11",
+          "title": "Mini航海",
+          "link": "https://scys.com/activity/landing/8798?tabIndex=0",
+          "type": "帖子"
+        },
+        {
+          "order": 5,
+          "author": "小灰",
+          "authorLink": "https://scys.com/personal/40636?number=30590",
+          "publishTime": "2025-12-11 17:56",
+          "title": "拆解视频元素，用扣子+飞书多维表格实现日均300条原创短视频的自动化生产",
+          "link": "https://scys.com/articleDetail/xq_topic/82811828811814222",
+          "type": "精华"
+        },
+        {
+          "order": 6,
+          "author": "壹欧壹",
+          "authorLink": "https://scys.com/personal/3340158?number=301",
+          "publishTime": "2025-12-01 21:57",
+          "title": "万字拆解油管Ai微创新工作流—2个月赚到3000美金的实战经验分享",
+          "link": "https://scys.com/articleDetail/xq_topic/55188128884421124",
+          "type": "精华"
+        }
+      ],
+      "政策": []
+    }
+  },
+  "statistics": {
+    "clickCount": 624,
+    "readCount": 520,
+    "favoriteCount": 7,
+    "likeCount": 26,
+    "commentCount": 2,
+    "shareCount": 1
+  }
+}

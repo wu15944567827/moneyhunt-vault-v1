@@ -1,0 +1,273 @@
+{
+  "id": "0004",
+  "title": "小红书虚拟产品",
+  "summary": "在小红书售卖虚拟资料、网页小工具、小程序等数字产品，AI拓宽了供给边界，自动发货把交付成本压到极低。",
+  "highlights": "平台给机会｜AI拓宽供给｜自动发货",
+  "platform": [
+    "小红书"
+  ],
+  "profitModel": "虚拟产品销售",
+  "caseRevenue": "案例：一条笔记7天变现1000-5000",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2025-05-01 09:00",
+  "detailContent": {
+    "overview": "很多人对「虚拟产品」的理解还停留在卖资料包、卖课程。但你有没有想过：**为什么有人愿意花9.9买一份PPT模板，却不愿意花同样的钱买一本书？**\n\n答案是：他不是在买信息，而是在买「省事」。老师需要教务PPT，他不想自己做；HR需要年会游戏方案，她不想自己找；考生需要题库，他不想自己整理。\n\n小红书的人群、客单价天然适合这类小产品。平台在给虚拟产品机会，新增了电子资料自动发货功能，可以直接上架店铺；AI把以前很多没人满足的小需求变成了可能——从飞书插件到春招进度表，从emoji猜猜小游戏到专属行业的效率工具；自动发货把交付成本压到极低。\n\n**虚拟产品的本质是：把一堆文件，变成一个实现需求的产品**。同样的资料，体验却是指数级的升级。一条笔记7天变现1000-5000，好的插件能变现小一万，一个年会游戏小店单品能卖5.7万。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "emoji猜猜乐卖5万",
+        "profitDetail": "小红书卖年会游戏PPT，9块9一份，月赚3千到1万",
+        "type": "中标",
+        "publishTime": "2025-11-19 14:23"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "飞书插件卖激活码",
+        "profitDetail": "小红书卖飞书插件激活码，一条笔记7天卖1千到5千",
+        "type": "中标",
+        "publishTime": "2025-11-16 15:31"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-3.jpg",
+        "order": 3,
+        "caseTitle": "卖英语App会员",
+        "profitDetail": "小红书发英语内容卖英语App会员，月赚3千到2万",
+        "type": "中标",
+        "publishTime": "2025-10-29 10:26"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-4.jpg",
+        "order": 4,
+        "caseTitle": "开学季卖PPT模板",
+        "profitDetail": "小红书卖PPT模板9.9元，开学季日销几十单，月赚2千到1万",
+        "type": "中标",
+        "publishTime": "2025-08-12 14:57"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-5.jpg",
+        "order": 5,
+        "caseTitle": "AI写工具小红书卖",
+        "profitDetail": "小红书卖AI虚拟工具，微信引流，月赚3千到1万",
+        "type": "中标",
+        "publishTime": "2025-09-23 19:18"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-6.jpg",
+        "order": 6,
+        "caseTitle": "9块9卖年会游戏",
+        "profitDetail": "小红书卖年会游戏PPT，9块9一份月赚5千到1万",
+        "type": "中标",
+        "publishTime": "2025-08-29 15:13"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE4_%E6%A1%88%E4%BE%8B-7.jpg",
+        "order": 7,
+        "caseTitle": "小学教辅月入6千",
+        "profitDetail": "小红书卖教辅资料19.9元/份，日更笔记推商品，月赚5千到1万",
+        "type": "中标",
+        "publishTime": "2025-08-24 13:45"
+      }
+    ],
+    "whyWorthDoing": [
+      "**平台在给机会**：小红书对虚拟产品的支持度越来越高，新增了电子资料自动发货功能，可以直接上架店铺实现站内闭环成交",
+      "**AI拓宽了供给边界**：以前很多小众需求没人满足，现在都变成可能了——音乐老师专属App、羽毛球训练记录工具、快递码聚合平台、年会游戏小程序，这些垂直小工具都能变现",
+      "**自动发货把交付抽掉**：一次性资料包、网页小工具、小程序都是虚拟产品的载体，一次制作无限分发，边际成本趋近于零"
+    ],
+    "howToProfit": [
+      "**资料包售卖**：教务PPT、年会游戏、考试题库、小学教辅等，单品可卖数千至数万元（如emoji猜猜游戏卖5.7万）",
+      "**工具插件售卖**：飞书插件、小红书运营插件等，按半年卡/年卡/两年卡销售，单插件可变现近万元，到期续费获持续收益",
+      "**知识库售卖**：垂直领域知识库，如品牌知识库、求职知识库、英语学习/考公类高客单价产品"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0元**，小红书可0元开店，只需投入时间整理资料",
+      "expectedRevenue": "**单品月销3000-10000元**，深耕垂直品类如插件、知识库可做到2万+",
+      "paybackPeriod": "**1-3周**，笔记验证需求后即可持续出单，边际成本为0"
+    },
+    "steps": [
+      "**选择垂直赛道**：优先选择英语、考公、职场技能等高天花板领域，或季节性赛道如开学季教辅、年底年会游戏",
+      "**用AI开发产品**：用DeepSeek等AI工具整理原创资料包，或开发网页小工具、飞书插件等，边做边迭代优化",
+      "**开通店铺上架**：0元开店，选择电子资源类目，设置自动发货，定价可适当提高（高价=高质量认知）",
+      "**持续发笔记引流**：模仿对标账号的标题封面，用商品笔记+图文笔记组合测试，量大出奇迹，根据数据反馈迭代"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "Bella",
+          "authorLink": "https://scys.com/personal/5808304?number=152711",
+          "publishTime": "2025-11-19 14:23",
+          "caseTitle": "emoji猜猜乐卖5万",
+          "profitDetail": "小红书卖年会游戏PPT，9块9一份，月赚3千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/45811848821888118",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "嗯",
+          "authorLink": "https://scys.com/personal/1210955?number=110657",
+          "publishTime": "2025-11-16 15:31",
+          "caseTitle": "飞书插件卖激活码",
+          "profitDetail": "小红书卖飞书插件激活码，一条笔记7天卖1千到5千",
+          "link": "https://scys.com/articleDetail/xq_topic/45811415482182858",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "虚竹",
+          "authorLink": "https://scys.com/personal/437772?number=153647",
+          "publishTime": "2025-10-29 10:26",
+          "caseTitle": "卖英语App会员",
+          "profitDetail": "小红书发英语内容卖英语App会员，月赚3千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/14588241584418212",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "DF",
+          "authorLink": "https://scys.com/personal/8867655?number=170473",
+          "publishTime": "2025-08-12 14:57",
+          "caseTitle": "开学季卖PPT模板",
+          "profitDetail": "小红书卖PPT模板9.9元，开学季日销几十单，月赚2千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/2852148154555481",
+          "type": "中标"
+        },
+        {
+          "order": 5,
+          "author": "东方",
+          "authorLink": "https://scys.com/personal/733527?number=70134",
+          "publishTime": "2025-09-23 19:18",
+          "caseTitle": "AI写工具小红书卖",
+          "profitDetail": "小红书卖AI虚拟工具，微信引流，月赚3千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/4842451455211288",
+          "type": "中标"
+        },
+        {
+          "order": 6,
+          "author": "初心",
+          "authorLink": "https://scys.com/personal/722481?number=62753",
+          "publishTime": "2025-08-29 15:13",
+          "caseTitle": "9块9卖年会游戏",
+          "profitDetail": "小红书卖年会游戏PPT，9块9一份月赚5千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/5124222514582244",
+          "type": "生财好事"
+        },
+        {
+          "order": 7,
+          "author": "虫虫",
+          "authorLink": "https://scys.com/personal/840570?number=59961",
+          "publishTime": "2025-08-24 13:45",
+          "caseTitle": "小学教辅月入6千",
+          "profitDetail": "小红书卖教辅资料19.9元/份，日更笔记推商品，月赚5千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/5125884542512184?_from=%2Fai%2F20260104182905qLqPpbU",
+          "type": "生财好事"
+        }
+      ],
+      "平台": []
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-12",
+          "title": "小红书虚拟产品",
+          "link": "https://scys.com/activity/landing/8967?tabIndex=0",
+          "type": "航海"
+        },
+        {
+          "order": 2,
+          "author": "Luke",
+          "authorLink": "https://scys.com/personal/457339?number=117300",
+          "publishTime": "2025-12-17 13:18",
+          "title": "1.2万字梳理：通过AI原创小红书虚拟产品的方向和方法论",
+          "link": "https://scys.com/articleDetail/xq_topic/82811824524821452",
+          "type": "精华"
+        },
+        {
+          "order": 3,
+          "author": "狂蜂（小红书虚拟）",
+          "authorLink": "https://scys.com/personal/11890?number=24088",
+          "publishTime": "2025-12-03 12:15",
+          "title": "小红书虚拟矩阵3.0：双轨模式+AI半垂直选品+店矩阵（可工作室放大！）",
+          "link": "https://scys.com/articleDetail/xq_topic/45811884522445128",
+          "type": "精华"
+        },
+        {
+          "order": 4,
+          "author": "郭耀天",
+          "authorLink": "https://scys.com/personal/35366?number=3370",
+          "publishTime": "2025-11-25 21:40",
+          "title": "教师资料卖了20000单深度复盘，普通人如何快速入局",
+          "link": "https://scys.com/articleDetail/xq_topic/22811854828428111",
+          "type": "精华"
+        },
+        {
+          "order": 5,
+          "author": "苏晗",
+          "authorLink": "https://scys.com/personal/2324888?number=118536",
+          "publishTime": "2025-11-20 11:36",
+          "title": "一周爆卖2100单！小红书虚拟垂直小店复盘：揭秘我选品、测品及运营放大的关键动作",
+          "link": "https://scys.com/articleDetail/xq_topic/55188121441418424",
+          "type": "精华"
+        },
+        {
+          "order": 6,
+          "author": "V小刀",
+          "authorLink": "https://scys.com/personal/740344?number=75448",
+          "publishTime": "2025-09-03 21:18",
+          "title": "从0到1 —小红书虚拟电商的选品和笔记制作解析",
+          "link": "https://scys.com/articleDetail/xq_topic/2854551118255281?_from=%2Fai%2F20260104182905qLqPpbU",
+          "type": "精华"
+        },
+        {
+          "order": 7,
+          "author": "星荧",
+          "authorLink": "https://scys.com/personal/227073?number=43536",
+          "publishTime": "2025-07-21 14:21",
+          "title": "小白在小红书虚拟赛道从0-1至变现6位数的复盘",
+          "link": "https://scys.com/articleDetail/xq_topic/2852182514528821?_from=%2Fai%2F20260104221135MBRFTH8",
+          "type": "精华"
+        },
+        {
+          "order": 8,
+          "author": "魔都静静妈",
+          "authorLink": "https://scys.com/personal/2153526?number=115565",
+          "publishTime": "2025-07-18 11:17",
+          "title": "小红书店铺（虚拟资料）3个月、3家店，变现2w+，分享我的实战经验",
+          "link": "https://scys.com/articleDetail/xq_topic/8852188845211112?_from=%2Fai%2F20260104221135MBRFTH8",
+          "type": "帖子"
+        },
+        {
+          "order": 9,
+          "author": "星河",
+          "authorLink": "https://scys.com/personal/102014?number=9955",
+          "publishTime": "2025-05-28 22:28",
+          "title": "想跟大家分享我们团队在小红书虚拟电商的一些探索",
+          "link": "https://scys.com/articleDetail/xq_topic/2852482452422551?_from=%2Fai%2F20260104182905qLqPpbU",
+          "type": "精华"
+        },
+        {
+          "order": 10,
+          "author": "哆元",
+          "authorLink": "https://scys.com/personal/825585?number=89266",
+          "publishTime": "2025-10-30 17:09",
+          "title": "用 AI 做老师工具需求很大，虚拟产品的蓝海赛道",
+          "link": "https://scys.com/articleDetail/xq_topic/82811542541544242",
+          "type": "精华"
+        }
+      ],
+      "政策": []
+    }
+  },
+  "statistics": {
+    "clickCount": 3432,
+    "readCount": 2860,
+    "favoriteCount": 50,
+    "likeCount": 167,
+    "commentCount": 16,
+    "shareCount": 8
+  }
+}

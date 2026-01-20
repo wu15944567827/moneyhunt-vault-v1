@@ -1,0 +1,183 @@
+{
+  "id": "0009",
+  "title": "GEO",
+  "summary": "让品牌内容被AI搜索引擎检索、理解、引用，成为AI回答问题时的推荐来源，抢占下一代搜索红利。",
+  "highlights": "未来趋势｜长期被引用｜新流量入口",
+  "platform": [
+    "独立站"
+  ],
+  "profitModel": "定制服务",
+  "caseRevenue": "案例：优化后品牌被AI推荐前三名",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2025-10-25 09:00",
+  "detailContent": {
+    "overview": "你有没有发现：现在越来越多人不去百度搜索，而是直接问豆包、ChatGPT、Perplexity？\n\n这意味着什么？意味着**用户获取信息的方式正在改变，而你的内容能不能被AI引用，决定了你能不能被用户看到**。\n\n当用户问AI「TikTok代运营哪家靠谱」「本地有什么好的商家推荐」，AI会直接给出答案并引用来源。被引用的内容往往不是权重最高的网站，而是把问题讲得最清楚、最像标准答案的页面。\n\n**GEO（Generative Engine Optimization）就是让AI能抓到你、读懂你、信任你，成为AI回答的首选推荐**。这不是一次流量，而是持续出现——一篇内容可以同时被豆包、ChatGPT、百度AI等多个平台长期引用。已经有商家通过豆包推荐获得客资，有卖家通过AI搜索优化让产品直接带上购物链接。30天系统优化，让你的品牌进入AI推荐的第一梯队，这是下一代搜索的红利窗口。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "豆包推来的客户",
+        "profitDetail": "抖音短视频被AI推荐，客户主动咨询，月赚3千到1万",
+        "type": "中标",
+        "publishTime": "2025-11-11 14:58"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "帮店铺上AI搜索",
+        "profitDetail": "小红书接单帮美团商家做AI优化，一单5百到2千，月入5千到2万",
+        "type": "中标",
+        "publishTime": "2025-10-26 01:41"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-3.jpg",
+        "order": 3,
+        "caseTitle": "ChatGPT带货日本",
+        "profitDetail": "用日本IP让ChatGPT推荐电商链接赚联盟佣金，月入几百到几千",
+        "type": "中标",
+        "publishTime": "2025-09-30 10:32"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-4.jpg",
+        "order": 4,
+        "caseTitle": "让AI推荐你的品牌",
+        "profitDetail": "小红书教企业做AI排名，卖7980元课程，月赚几十万",
+        "type": "中标",
+        "publishTime": "2025-09-10 21:50"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE9_%E6%A1%88%E4%BE%8B-5.jpg",
+        "order": 5,
+        "caseTitle": "豆包搜索带货",
+        "profitDetail": "豆包AI推荐商品，用户搜问题看蓝链下单，卖一件赚正常利润",
+        "type": "中标",
+        "publishTime": "2025-10-30 10:08"
+      }
+    ],
+    "whyWorthDoing": [
+      "**用户习惯正在改变**：越来越多人直接问AI而不是搜索引擎，不少客户已经从ChatGPT、豆包、Perplexity的推荐里找过来了",
+      "**长期被引用**：一篇内容可以同时被多个AI长期调用，一旦被选中不是一次流量，而是持续出现在无数次AI回答里",
+      "**新流量入口**：AI搜索正在重构消费决策，豆包、百度AI已经开始带购物链接，被AI推荐就是新的自然流量"
+    ],
+    "howToProfit": [
+      "**GEO服务商**：帮品牌构建能被AI调用的知识库体系，让品牌从\"被提到\"变成\"被推荐\"",
+      "**GEO培训咨询**：教企业拆解用户决策问题图谱，把内容做成AI搜索的标准答案",
+      "**自有产品引流**：让产品出现在豆包、ChatGPT的推荐链接里，直接带货转化"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0-500元**，主要是学习时间和测试成本",
+      "expectedRevenue": "**单次服务费数千至数万元**，品牌GEO优化项目可达更高",
+      "paybackPeriod": "**2-4周**，一旦内容被AI收录即可持续获得曝光"
+    },
+    "steps": [
+      "**检索层优化**：确保内容可被AI爬取和索引，添加结构化数据标记，同步布局豆包、ChatGPT、Perplexity等多个AI平台",
+      "**理解层优化**：用定义式、要点式、结论式写法，把问题讲得像\"标准答案\"，让AI能直接引用",
+      "**信任层优化**：提供完整的品牌事实（团队规模、服务流程、成功案例、能力边界），构建品牌知识库，让AI有足够理由推荐你",
+      "**本地化优化**：针对美团、大众点评等本地生活平台做AI搜索优化，抢占模糊需求场景的推荐位"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "汐米",
+          "authorLink": "https://scys.com/personal/491061?number=48981",
+          "publishTime": "2025-11-11 14:58",
+          "caseTitle": "豆包推来的客户",
+          "profitDetail": "抖音短视频被AI推荐，客户主动咨询，月赚3千到1万",
+          "link": "https://scys.com/articleDetail/xq_topic/45811414215545858",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "倾听晚风",
+          "authorLink": "https://scys.com/personal/297205?number=78794",
+          "publishTime": "2025-10-26 01:41",
+          "caseTitle": "帮店铺上AI搜索",
+          "profitDetail": "小红书接单帮美团商家做AI优化，一单5百到2千，月入5千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/22811522884144251",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "Adam",
+          "authorLink": "https://scys.com/personal/232857?number=12741",
+          "publishTime": "2025-09-30 10:32",
+          "caseTitle": "ChatGPT带货日本",
+          "profitDetail": "用日本IP让ChatGPT推荐电商链接赚联盟佣金，月入几百到几千",
+          "link": "https://scys.com/articleDetail/xq_topic/1521215212285212",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "馆主",
+          "authorLink": "https://scys.com/personal/3087716?number=142558",
+          "publishTime": "2025-09-10 21:50",
+          "caseTitle": "让AI推荐你的品牌",
+          "profitDetail": "小红书教企业做AI排名，卖7980元课程，月赚几十万",
+          "link": "https://scys.com/articleDetail/xq_topic/8854582525151482",
+          "type": "中标"
+        },
+        {
+          "order": 5,
+          "author": "徐 Ken",
+          "authorLink": "https://scys.com/personal/118618?number=25124",
+          "publishTime": "2025-10-30 10:08",
+          "caseTitle": "豆包搜索带货",
+          "profitDetail": "豆包AI推荐商品，用户搜问题看蓝链下单，卖一件赚正常利润",
+          "link": "https://scys.com/articleDetail/xq_topic/14588214254145882",
+          "type": "中标"
+        }
+      ],
+      "平台": []
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "孙策",
+          "authorLink": "https://scys.com/personal/35078?number=6795",
+          "publishTime": "2025-12-22 11:23",
+          "title": "GEO万字实战操作流程：如何让一家 TK 服务商成为 AI 首选推荐",
+          "link": "https://scys.com/articleDetail/xq_topic/55188145822151184",
+          "type": "精华"
+        },
+        {
+          "order": 2,
+          "author": "孙策",
+          "authorLink": "https://scys.com/personal/35078?number=6795",
+          "publishTime": "2025-10-21 20:01",
+          "title": "从内容营销到 GEO，我们看到的新方向以及如何实战？",
+          "link": "https://scys.com/articleDetail/xq_topic/82811528525828252",
+          "type": "精华"
+        },
+        {
+          "order": 3,
+          "author": "旋子",
+          "authorLink": "https://scys.com/personal/436823?number=58765",
+          "publishTime": "2025-09-30 19:52",
+          "title": "GEO-AI搜索优化实操教程-新手友好版",
+          "link": "https://scys.com/articleDetail/xq_topic/2854548855145451",
+          "type": "帖子"
+        },
+        {
+          "order": 4,
+          "author": "黄大路",
+          "authorLink": "https://scys.com/personal/500731?number=58503",
+          "publishTime": "2025-08-09 00:14",
+          "title": "80%品牌方的GEO商圈，如何让AI生成内容应用你的产品？（附影刀RPA自动化解决方案）",
+          "link": "https://scys.com/articleDetail/xq_topic/1524812855485422?_from=%2Fai%2F20260104221951VeJ4sjq",
+          "type": "帖子"
+        }
+      ],
+      "政策": []
+    }
+  },
+  "statistics": {
+    "clickCount": 1704,
+    "readCount": 1420,
+    "favoriteCount": 22,
+    "likeCount": 76,
+    "commentCount": 7,
+    "shareCount": 3
+  }
+}

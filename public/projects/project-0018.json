@@ -1,0 +1,175 @@
+{
+  "id": "0018",
+  "title": "Build in 小红书",
+  "summary": "用小红书当作产品实验场，公开发想孵化，观察互动和爆款潜质，一旦内容爆掉就快速迭代成产品。",
+  "highlights": "平台扶持｜用户直接反馈｜社群护城河",
+  "platform": [
+    "小红书"
+  ],
+  "profitModel": "虚拟产品销售",
+  "caseRevenue": "案例：评论区1.3万用户求iOS版本上线",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE18_%E6%A1%88%E4%BE%8B-1.jpg",
+  "publishTime": "2026-01-10 09:00",
+  "detailContent": {
+    "overview": "做产品最难的是什么？**不是开发，是验证需求**。你花几个月做出来的东西，可能根本没人要。\n\n但小红书给了一个新玩法：**把产品开发过程公开，让用户参与进来**。一个显化网站还没做完，分享发出去两天就获得2267赞、391条评论，评论区全是蹲网页上线的精准用户。\n\n平台聚集了超过5万名独立开发者，相关内容发布量年同比增长146%，话题总阅读量超5亿次。小红书官方通过举办黑客松、与谷歌合作等方式进行战略性推动。\n\n**核心逻辑是：从创意发现、产品验证到应用分发的完整生态闭环已经形成**。Plan Coach评论区1.3万用户求iOS版，AI看风水的评论区则是用户主动给出想法和建议——这种第一时间获得市场真实反馈的能力，才是独立开发者最稀缺的资源。竞争对手可以复制功能，但无法复制你与用户建立的信任和情感连接。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE18_%E6%A1%88%E4%BE%8B-1.jpg",
+        "order": 1,
+        "caseTitle": "显化网站未上线先火",
+        "profitDetail": "小红书发预告火爆，网站上线靠广告和会员赚钱，月赚几百到几千",
+        "type": "中标",
+        "publishTime": "2025-08-20 21:26"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE18_%E6%A1%88%E4%BE%8B-2.jpg",
+        "order": 2,
+        "caseTitle": "1.5万人蹲着等下载",
+        "profitDetail": "小红书发AI产品测评吸粉，上架App收费，月入几千到几万",
+        "type": "中标",
+        "publishTime": "2025-08-13 23:22"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE18_%E6%A1%88%E4%BE%8B-3.jpg",
+        "order": 3,
+        "caseTitle": "假问真答推APP",
+        "profitDetail": "小红书发帖引流，评论区推产品，省广告费三千到一万",
+        "type": "中标",
+        "publishTime": "2025-08-11 12:59"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE18_%E6%A1%88%E4%BE%8B-4.jpg",
+        "order": 4,
+        "caseTitle": "6个AI大厨帮你做饭",
+        "profitDetail": "小红书发视频引流App，卖减脂餐和辅食，月赚2千到8千",
+        "type": "中标",
+        "publishTime": "2025-08-08 18:33"
+      }
+    ],
+    "whyWorthDoing": [
+      "**平台战略扶持**：小红书聚集超5万名独立开发者，相关内容年增长146%，话题总阅读量超5亿；官方通过与谷歌合作举办黑客松、科技出海大赛等方式战略性推动生态",
+      "**用户即时反馈闭环**：开发者与用户直接\"面对面\"接触，产品Demo发布当天就能收到精准反馈——如Plan Coach评论区1.3万人求iOS版，AI看风水收到大量功能建议，验证成本极低",
+      "**社群即护城河**：竞争对手可以复制功能，但无法复制你在小红书与用户建立的信任连接——从创意发现、产品验证到应用分发的完整生态闭环已经形成"
+    ],
+    "howToProfit": [
+      "**应用商店付费**：付费下载/内购订阅，iOS用户付费意愿强，审核快可全球分发",
+      "**小红书种草闭环**：笔记引流+评论区蹲产品，素人矩阵推广，0成本获取精准种子用户",
+      "**个人品牌衍生**：独立开发者IP打造，咨询、课程、黑客松获奖等多元变现"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**688元起**，苹果开发者账号年费99美元+Mac设备和AI工具订阅",
+      "expectedRevenue": "**评论区1.3万用户求iOS版、1500+用户蹲安卓版**，小红书平台扶持独立开发者，0成本获取种子用户",
+      "paybackPeriod": "**2-4周**，21天可完成MVP上线，爆款内容当天即可验证需求"
+    },
+    "steps": [
+      "**发现需求**：在评论区挖掘用户痛点，观察用户DIY的\"笨拙方案\"——比如有人把菜品搭配做成Excel、把显化愿望做成网页雏形，这些都是真需求的可靠信号",
+      "**互动式开发**：把产品雏形直接发到小红书测试反馈，让用户在评论区提建议、投票功能优先级，像Plan Coach那样积累1.3万用户蹲iOS版本的热度",
+      "**叙事性更新**：定期发布开发进度，展示从idea到上线的全过程，利用小红书对独立开发者的流量扶持（相关内容年增长146%）获取自然曝光",
+      "**快速迭代**：内容爆了就快速推出MVP上线，2-3小时做出demo去市场验证，像AI看风水、厨王争霸这类产品一样在评论区直接收集用户反馈进行打磨"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "霏儿effie",
+          "authorLink": "https://scys.com/personal/458487?number=46216",
+          "publishTime": "2025-08-20 21:26",
+          "caseTitle": "显化网站未上线先火",
+          "profitDetail": "小红书发预告火爆，网站上线靠广告和会员赚钱，月赚几百到几千",
+          "link": "https://scys.com/articleDetail/xq_topic/8852112228558552",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "Elaine",
+          "authorLink": "https://scys.com/personal/1695756?number=109116",
+          "publishTime": "2025-08-13 23:22",
+          "caseTitle": "1.5万人蹲着等下载",
+          "profitDetail": "小红书发AI产品测评吸粉，上架App收费，月入几千到几万",
+          "link": "https://scys.com/articleDetail/xq_topic/2852142844515841",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "林倾倾",
+          "authorLink": "https://scys.com/personal/1777165?number=128098",
+          "publishTime": "2025-08-11 12:59",
+          "caseTitle": "假问真答推APP",
+          "profitDetail": "小红书发帖引流，评论区推产品，省广告费三千到一万",
+          "link": "https://scys.com/articleDetail/xq_topic/2852148814254121",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "福脑斯",
+          "authorLink": "https://scys.com/personal/2157734?number=115740",
+          "publishTime": "2025-08-08 18:33",
+          "caseTitle": "6个AI大厨帮你做饭",
+          "profitDetail": "小红书发视频引流App，卖减脂餐和辅食，月赚2千到8千",
+          "link": "https://scys.com/articleDetail/xq_topic/8852145158241222",
+          "type": "中标"
+        }
+      ],
+      "平台": []
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "/",
+          "authorLink": "",
+          "publishTime": "2025-09",
+          "title": "AI 应用 - iOS APP",
+          "link": "https://scys.com/activity/landing/7714?tabIndex=0",
+          "type": "航海"
+        },
+        {
+          "order": 3,
+          "author": "六六",
+          "authorLink": "https://scys.com/personal/60425?number=8123",
+          "publishTime": "2025-10-05 22:53",
+          "title": "在狗都不做的国内市场，如何三个月做出稳定变现的ai产品",
+          "link": "https://scys.com/articleDetail/xq_topic/4842428145214128",
+          "type": "精华"
+        },
+        {
+          "order": 4,
+          "author": "大潘",
+          "authorLink": "https://scys.com/personal/161178?number=28306",
+          "publishTime": "2025-07-25 20:14",
+          "title": "我是如何1 个人1 个月靠 AI做出用户 1W 收入 1W 产品的",
+          "link": "https://scys.com/articleDetail/xq_topic/5125814514181854",
+          "type": "精华"
+        },
+        {
+          "order": 5,
+          "author": "AI进化论-花生",
+          "authorLink": "https://scys.com/personal/1276919?number=152644",
+          "publishTime": "2024-11-11 11:45",
+          "title": "非工程师1小时写代码，「小猫补光灯」App 借小红书爆火的复盘",
+          "link": "https://scys.com/articleDetail/xq_topic/1525482512425122",
+          "type": "精华"
+        }
+      ],
+      "政策": [
+        {
+          "order": 1,
+          "author": "不知",
+          "authorLink": "https://scys.com/personal/229189?number=289",
+          "publishTime": "2025-07-19 01:00",
+          "title": "小红书再次组织黑客松活动了，主题是科技出海。详情和报名地址看图片",
+          "link": "https://scys.com/articleDetail/xq_topic/8852188488885252",
+          "type": "中标"
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "clickCount": 432,
+    "readCount": 360,
+    "favoriteCount": 5,
+    "likeCount": 18,
+    "commentCount": 1,
+    "shareCount": 0
+  }
+}

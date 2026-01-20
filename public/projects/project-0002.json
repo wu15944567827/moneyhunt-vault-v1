@@ -1,0 +1,439 @@
+{
+  "id": "0002",
+  "title": "AI P图服务",
+  "summary": "利用AI图像处理技术提供老照片修复、去路人、换背景等P图服务，解决用户手中照片的各种问题，情感付费意愿极高。",
+  "highlights": "需求永恒｜AI降低门槛｜即时变现",
+  "platform": [
+    "小红书",
+    "抖音",
+    "Reddit"
+  ],
+  "profitModel": "定制服务",
+  "caseRevenue": "案例：单日5-10单可观副业",
+  "coverImage": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E6%A1%88%E4%BE%8B1.jpg",
+  "publishTime": "2025-02-10 09:00",
+  "detailContent": {
+    "overview": "你可能觉得P图是个很low的活，几块钱一单，能赚什么钱？\n\n但你忽略了一件事：**照片背后是情感，情感付费没有天花板**。一张模糊的老照片，可能是某人唯一一张和去世亲人的合影；一张旅行照里的路人，可能毁掉了一对情侣的纪念。\n\n以前修复一张老照片需要专业PS师耗费数小时，现在AI几秒钟就能完成。但大多数人不知道用什么工具、怎么操作，他们只想花钱解决问题。\n\n**你卖的不是技术，是「帮他搞定」这件事**。小红书上有店铺单品销量超过10万单，1元起步的P掉路人服务，证件照修图、婚纱照精修都是刚需。Reddit上一单$10-15，国内1-30元不等，一天接几单就是稳定的副业收入。",
+    "caseImages": [
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E6%A1%88%E4%BE%8B1.jpg",
+        "order": 1,
+        "caseTitle": "Reddit帮老外P图",
+        "profitDetail": "Reddit找P图单，AI秒修，打赏链接收5到20美刀",
+        "type": "中标",
+        "publishTime": "2025-12-24 09:27"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E6%A1%88%E4%BE%8B2.jpg",
+        "order": 2,
+        "caseTitle": "Reddit改图赚美刀",
+        "profitDetail": "Reddit修图板块接单，AI快速完成，单笔5到20美刀",
+        "type": "中标",
+        "publishTime": "2025-12-19 09:01"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E6%A1%88%E4%BE%8B3.jpg",
+        "order": 3,
+        "caseTitle": "99元拍大片",
+        "profitDetail": "小红书发写真对比图引流，做写真服务99-899元一套，月赚3千到2万",
+        "type": "中标",
+        "publishTime": "2025-12-12 00:16"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E6%A1%88%E4%BE%8B4.jpg",
+        "order": 4,
+        "caseTitle": "高管照换个头",
+        "profitDetail": "抖音引流用AI生成头像，一单9到29元，月赚2千到8千",
+        "type": "中标",
+        "publishTime": "2025-12-21 22:38"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B01.jpg",
+        "order": 5,
+        "caseTitle": "1块钱P掉前任",
+        "profitDetail": "小红书修图店，1块钱一单，月赚8千到2万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B02.jpg",
+        "order": 6,
+        "caseTitle": "1块钱P个耳朵",
+        "profitDetail": "小红书帮人P证件照，1块钱一单，已卖7万多单",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B03.jpg",
+        "order": 7,
+        "caseTitle": "5块钱P一张照片",
+        "profitDetail": "小红书修图店，P证件照和自拍，5到20块一单，月赚5千到2万。",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B04.jpg",
+        "order": 8,
+        "caseTitle": "5块钱修婚纱照",
+        "profitDetail": "小红书精修婚纱照写真照5块一张，月入1万到3万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B05.jpg",
+        "order": 9,
+        "caseTitle": "P掉前任赚5万",
+        "profitDetail": "小红书P照片去人像，5块一单卖过万，月赚3千到1万。",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B06.jpg",
+        "order": 10,
+        "caseTitle": "改截图5块一单",
+        "profitDetail": "小红书开店帮人P图改字改数字，5到10块一单，月入2千到5千",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B07.jpg",
+        "order": 11,
+        "caseTitle": "3块钱P一张脸",
+        "profitDetail": "小红书接修图单，3块钱一张，月赚5千到1万5",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B08.jpg",
+        "order": 12,
+        "caseTitle": "证件照加耳朵",
+        "profitDetail": "小红书修证件照换发型换底色，5块一单，月入2千到5千",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B09.jpg",
+        "order": 13,
+        "caseTitle": "3块钱P证件照",
+        "profitDetail": "小红书卖换证件照服务，3块钱一单，月入5千到1万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B010.jpg",
+        "order": 14,
+        "caseTitle": "1块钱P掉眼镜",
+        "profitDetail": "小红书开店帮人P证件照，去眼镜、加耳朵，1块钱一单，已经卖了2万多单。",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B011.jpg",
+        "order": 15,
+        "caseTitle": "5块钱修一张照片",
+        "profitDetail": "小红书卖证件照精修服务，5块一张，月入1到2万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B012.jpg",
+        "order": 16,
+        "caseTitle": "10块钱修一张照片",
+        "profitDetail": "小红书开店精修婚纱照10块一张，已卖2万单，月赚6千到1万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B013.jpg",
+        "order": 17,
+        "caseTitle": "1块钱P掉前任",
+        "profitDetail": "小红书开店P掉照片路人，1块钱一单，月赚3千到1万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      },
+      {
+        "imageUrl": "https://cdn.jsdelivr.net/gh/wu15944567827/-@main/images/%E9%A1%B9%E7%9B%AE2_%E5%B9%B3%E5%8F%B014.jpg",
+        "order": 18,
+        "caseTitle": "证件照P图接单",
+        "profitDetail": "小红书P证件照换底色，5到30块一单，月入1到3万",
+        "type": "线索",
+        "publishTime": "2026-01-06 08:00"
+      }
+    ],
+    "whyWorthDoing": [
+      "**需求永恒且细分赛道多**：结婚照、毕业照、家庭照、证件照、旅游照，每个赛道都能做透。美式证件照、领英高管头像这种单品，销量都非常可观",
+      "**AI把交付效率提升10倍**：补眼睛、修表情、换背景、P掉路人，现在是半AI+人工校对，以前1小时的活现在10分钟搞定",
+      "**多平台流量大且付费意愿强**：Reddit、抖音、小红书都有大量「帮我P一下」的需求，老照片修复类内容流量巨大，老外打赏意愿也高"
+    ],
+    "howToProfit": [
+      "**按单收费**：简单P路人1-5元，证件照精修5-30元，婚纱照精修10-20元/张，海外$10-15很常见",
+      "**小红书开店**：挂服务链接，P掉路人、证件照换底色这类标准化服务，有店铺单品销量超10万单",
+      "**Reddit悬赏接单**：在r/PhotoshopRequest评论区接单，完成后放打码图+打赏链接，满意再给原图"
+    ],
+    "costAndRevenue": {
+      "startupCost": "**0元**，醒图、美图秀秀、豆包等免费AI工具即可实现，复杂需求可用Nano Banana",
+      "expectedRevenue": "**海外$10-15/单，国内1-30元/单**。小红书头部店铺月销量可达数万单，一天5-10单=稳定副业",
+      "paybackPeriod": "**即时**，接单即收钱，一图一单，无库存无压货"
+    },
+    "steps": [
+      "**学会AI修图工具**：掌握醒图、美图秀秀、豆包的AI消除功能，复杂场景可用Nano Banana批量处理",
+      "**选定细分赛道**：P掉路人、证件照处理、老照片修复、婚纱照精修，选一个做透",
+      "**蹲需求接单**：Reddit的r/PhotoshopRequest，国内小红书/抖音搜「P下图」「修一下」「证件照」",
+      "**评论区+开店双轨并行**：一句话「可以处理，需要的话私我」配过往作品；同时小红书开店挂标准化服务",
+      "**私信成交**：明确改什么、多少钱、多久交付，复杂需求可适当加价"
+    ],
+    "caseReferences": {
+      "站内": [
+        {
+          "order": 1,
+          "author": "🐵Sunday🐵",
+          "authorLink": "https://scys.com/personal/215697?number=40241",
+          "publishTime": "2025-12-24 09:27",
+          "caseTitle": "Reddit帮老外P图",
+          "profitDetail": "Reddit找P图单，AI秒修，打赏链接收5到20美刀",
+          "link": "https://scys.com/articleDetail/xq_topic/22811844251114521",
+          "type": "中标"
+        },
+        {
+          "order": 2,
+          "author": "怪兽宇",
+          "authorLink": "https://scys.com/personal/451741?number=51359",
+          "publishTime": "2025-12-19 09:01",
+          "caseTitle": "Reddit改图赚美刀",
+          "profitDetail": "Reddit修图板块接单，AI快速完成，单笔5到20美刀",
+          "link": "https://scys.com/articleDetail/xq_topic/55188154454482854",
+          "type": "中标"
+        },
+        {
+          "order": 3,
+          "author": "Ai摄影海盐",
+          "authorLink": "https://scys.com/personal/814293?number=65398",
+          "publishTime": "2025-12-12 00:16",
+          "caseTitle": "99元拍大片",
+          "profitDetail": "小红书发写真对比图引流，做写真服务99-899元一套，月赚3千到2万",
+          "link": "https://scys.com/articleDetail/xq_topic/22811828225588111",
+          "type": "中标"
+        },
+        {
+          "order": 4,
+          "author": "馆主",
+          "authorLink": "https://scys.com/personal/3087716?number=142558",
+          "publishTime": "2025-12-21 22:38",
+          "caseTitle": "高管照换个头",
+          "profitDetail": "抖音引流用AI生成头像，一单9到29元，月赚2千到8千",
+          "link": "https://scys.com/articleDetail/xq_topic/45811851881815548",
+          "type": "中标"
+        }
+      ],
+      "平台": [
+        {
+          "order": 1,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "1块钱P掉前任",
+          "profitDetail": "小红书修图店，1块钱一单，月赚8千到2万",
+          "link": "https://www.xiaohongshu.com/user/profile/608600f60000000001008edf",
+          "type": "线索"
+        },
+        {
+          "order": 2,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "1块钱P个耳朵",
+          "profitDetail": "小红书帮人P证件照，1块钱一单，已卖7万多单",
+          "link": "https://www.xiaohongshu.com/user/profile/5c5810a40000000011032477",
+          "type": "线索"
+        },
+        {
+          "order": 3,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "5块钱P一张照片",
+          "profitDetail": "小红书修图店，P证件照和自拍，5到20块一单，月赚5千到2万。",
+          "link": "https://www.xiaohongshu.com/user/profile/68591515000000001d00a2ca",
+          "type": "线索"
+        },
+        {
+          "order": 4,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "5块钱修婚纱照",
+          "profitDetail": "小红书精修婚纱照写真照5块一张，月入1万到3万",
+          "link": "https://www.xiaohongshu.com/user/profile/617d00ea0000000002022757",
+          "type": "线索"
+        },
+        {
+          "order": 5,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "P掉前任赚5万",
+          "profitDetail": "小红书P照片去人像，5块一单卖过万，月赚3千到1万。",
+          "link": "https://www.xiaohongshu.com/user/profile/688a580c0000000029009c95",
+          "type": "线索"
+        },
+        {
+          "order": 6,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "改截图5块一单",
+          "profitDetail": "小红书开店帮人P图改字改数字，5到10块一单，月入2千到5千",
+          "link": "https://www.xiaohongshu.com/user/profile/6386e058000000001f01f90a",
+          "type": "线索"
+        },
+        {
+          "order": 7,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "3块钱P一张脸",
+          "profitDetail": "小红书接修图单，3块钱一张，月赚5千到1万5",
+          "link": "https://www.xiaohongshu.com/user/profile/65cfb2c50000000005030980",
+          "type": "线索"
+        },
+        {
+          "order": 8,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "证件照加耳朵",
+          "profitDetail": "小红书修证件照换发型换底色，5块一单，月入2千到5千",
+          "link": "https://www.xiaohongshu.com/user/profile/62a8a993000000001b0280c1",
+          "type": "线索"
+        },
+        {
+          "order": 9,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "3块钱P证件照",
+          "profitDetail": "小红书卖换证件照服务，3块钱一单，月入5千到1万",
+          "link": "https://www.xiaohongshu.com/user/profile/5f8ebe930000000001005dbb",
+          "type": "线索"
+        },
+        {
+          "order": 10,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "1块钱P掉眼镜",
+          "profitDetail": "小红书开店帮人P证件照，去眼镜、加耳朵，1块钱一单，已经卖了2万多单。",
+          "link": "https://www.xiaohongshu.com/user/profile/6582b75f000000001b031229",
+          "type": "线索"
+        },
+        {
+          "order": 11,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "5块钱修一张照片",
+          "profitDetail": "小红书卖证件照精修服务，5块一张，月入1到2万",
+          "link": "https://www.xiaohongshu.com/user/profile/5f5f327d000000000100b7ab",
+          "type": "线索"
+        },
+        {
+          "order": 12,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "10块钱修一张照片",
+          "profitDetail": "小红书开店精修婚纱照10块一张，已卖2万单，月赚6千到1万",
+          "link": "https://www.xiaohongshu.com/user/profile/58399f1450c4b44159ec7316",
+          "type": "线索"
+        },
+        {
+          "order": 13,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "1块钱P掉前任",
+          "profitDetail": "小红书开店P掉照片路人，1块钱一单，月赚3千到1万",
+          "link": "https://www.xiaohongshu.com/user/profile/5e8989560000000001000970",
+          "type": "线索"
+        },
+        {
+          "order": 14,
+          "author": "SCBI",
+          "authorLink": "",
+          "publishTime": "2026-01-06 08:00",
+          "caseTitle": "证件照P图接单",
+          "profitDetail": "小红书P证件照换底色，5到30块一单，月入1到3万",
+          "link": "https://www.xiaohongshu.com/user/profile/5c64260e000000001100e911",
+          "type": "线索"
+        }
+      ]
+    },
+    "relatedLinks": {
+      "文章": [
+        {
+          "order": 1,
+          "author": "来来",
+          "authorLink": "https://scys.com/personal/510242?number=50284",
+          "publishTime": "2025-09-04 18:27",
+          "title": "从P图小白到‘钞’级卖家！电商团队靠Nano Banana自动化批量出图，卷死同行的AI工作流保姆级教程",
+          "link": "https://scys.com/articleDetail/xq_topic/4842484822212548",
+          "type": "精华"
+        },
+        {
+          "order": 2,
+          "author": "张慕笙",
+          "authorLink": "https://scys.com/personal/37148?number=7184",
+          "publishTime": "2025-07-18 16:53",
+          "title": "从0到3个月营收10w+：AI绘画定制修图项目的实战路径与复盘拆解",
+          "link": "https://scys.com/articleDetail/xq_topic/2852188814854441",
+          "type": "精华"
+        },
+        {
+          "order": 3,
+          "author": "小查",
+          "authorLink": "https://scys.com/personal/2345579?number=119180",
+          "publishTime": "2025-07-02 22:34",
+          "title": "普通人AI掘金的两种模式与路径",
+          "link": "https://scys.com/articleDetail/xq_topic/2852414415481551",
+          "type": "精华"
+        },
+        {
+          "order": 4,
+          "author": "Gary曹淦丨AI内容出海",
+          "authorLink": "https://scys.com/personal/132894?number=154853",
+          "publishTime": "2025-05-29 21:04",
+          "title": "AI内容创作之器：AI图片视频工具测评与常用创作技巧讲解",
+          "link": "https://scys.com/articleDetail/xq_topic/5125414222521284",
+          "type": "精华"
+        },
+        {
+          "order": 5,
+          "author": "BCC",
+          "authorLink": "https://scys.com/personal/4228918?number=148896",
+          "publishTime": "2025-02-14 16:14",
+          "title": "大学生零基础在AI绘画赚到第一桶金",
+          "link": "https://scys.com/articleDetail/xq_topic/2858125552411851",
+          "type": "精华"
+        },
+        {
+          "order": 6,
+          "author": "林歌",
+          "authorLink": "https://scys.com/personal/230200?number=14222",
+          "publishTime": "2023-09-15 18:39",
+          "title": "小红书蓝海项目-p掉路人；观察12天，执行5天，收益1159.引流私域260人",
+          "link": "https://scys.com/articleDetail/xq_topic/188582828488582",
+          "type": "精华"
+        }
+      ],
+      "政策": []
+    }
+  },
+  "statistics": {
+    "clickCount": 4668,
+    "readCount": 3890,
+    "favoriteCount": 76,
+    "likeCount": 256,
+    "commentCount": 25,
+    "shareCount": 12
+  }
+}
